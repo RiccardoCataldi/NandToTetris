@@ -1,5 +1,2 @@
-# NandToTetris
-# NandToTetris
-# NandToTetris
-# NandToTetris
-# NandToTetris
+# NandToTetris - Verilog
+
