@@ -1,4 +1,4 @@
-module dff2(input wire clk,input wire d, output reg q);
+module DFF(input wire clk,input wire d, output reg q);
        always @(posedge clk) begin
 	   q <= d;
        end

@@ -5,7 +5,7 @@ module dff2_tb;
     wire q;
     integer i;
     
-    dff2 uut (.clk(clk), .d(d), .q(q));
+    DFF uut (.clk(clk), .d(d), .q(q));
     
     // Clock generation
     always #5 clk = ~clk;
